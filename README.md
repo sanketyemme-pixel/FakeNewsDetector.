@@ -1,2 +1,2 @@
-# Smartnewsauthenticator 
-A Streamlit app to detect fake news using AI”
+# Updated README and customized project details.
+# AI-powered fake news detection sysytem.
